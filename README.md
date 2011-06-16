@@ -1,1 +1,1 @@
-Remove call to action for getting the desktop app.
+Removes groups that you are not a member of from your company feed.
